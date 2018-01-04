@@ -1,0 +1,38 @@
+body{
+  font-family: Helvetica;
+}
+
+h1{
+  background-image: url(https://i.imgur.com/FZhtS4C.jpg);
+  font-size: 100px;
+  font-weight: bold;
+  color: Khaki;
+  text-align: center;
+}
+
+#header{
+
+}
+
+h2{
+  font-size: 32px;
+  font-weight: bold;
+  color: White;
+}
+
+#brushes{
+  background-color: mediumspringgreen;
+}
+
+.highlight{
+  font-weight: bold;
+  color: Blue;
+}
+
+#frames{
+  background-color: lightcoral;
+}
+
+#paint{
+  background-color: skyblue;
+}
